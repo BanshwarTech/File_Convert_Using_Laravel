@@ -21,3 +21,11 @@
     php artisan make:export ClientsExport --model=Client 
 
     go to app=> exports
+4 :: upload project on github from the own system 
+-------------------------------------------------
+     git remote add origin https://github.com/BanshwarTech/File_Convert_Using_Laravel.git
+     git branch -M main
+     git init 
+     git add .
+     git commit -m "first commit"
+     git push -u origin main
