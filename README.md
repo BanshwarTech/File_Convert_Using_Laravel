@@ -33,5 +33,10 @@
 In this all fetures :: PdfFileDownload, CsvFileDownload, DocxFileDowmload, ExcelFileDowmload, JsonFileDownload, XMLFileDownload
 5 :: run this project to own system 
 -----------------------------------
-     git clone https://github.com/username/repo-name.git
+     git clone https://github.com/BanshwarTech/File_Convert_Using_Laravel.git
+     composer install
+     cp .env.example .env (Update project .env file and define the database name)
+     php artisan key:generate
+     php artisan migrate
+     php artisan serve
 
