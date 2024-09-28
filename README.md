@@ -31,3 +31,7 @@
      git push -u origin main
 
 In this all fetures :: PdfFileDownload, CsvFileDownload, DocxFileDowmload, ExcelFileDowmload, JsonFileDownload, XMLFileDownload
+5 :: run this project to own system 
+-----------------------------------
+     git clone https://github.com/username/repo-name.git
+
